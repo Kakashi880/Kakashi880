@@ -16,7 +16,7 @@ If you have any questions about server configuration and bot creation, I will be
 <img src="https://cdn.discordapp.com/attachments/948900073880825908/1086339154071257168/Untitled_design.png">
 <p align="center">
   <a href="https://discord.com/users/767483040279560232" target="_blank">
-    <img alt="My Discord Account" src="https://cdn.discordapp.com/attachments/948900073880825908/1086577738221109298/93fd9c41f18cbb07.png"  />
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/"  />
   </a>
 </p>
 
