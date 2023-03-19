@@ -23,3 +23,4 @@ If you have any questions about server configuration and bot creation, I will be
 #### 🚀 Github Stats
 ![- Kakashi's github stats](https://github-readme-stats.vercel.app/api?username=Kakashi880)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakashi880)](https://github.com/Kakashi880/github-readme-stats)
+![snake gif](https://github.com/Kakashi880/Kakashi880/blob/output/github-contribution-grid-snake.gif)
