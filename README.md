@@ -3,7 +3,7 @@
 # 👋🏻 Hey Im -Kakashi
 Im **Kakashi** and my real name is **Sepehr**  im 15 y.o and form Iran . I love playing games and writing code, especially about Discord.js and the site 🌎
 
-It's been about 1 year since I entered programming seriously and I'm considered a newbie 🔍
+Well, how did I get to know coding? It was 2021 and I just got acquainted with [***Discord**](https://www.discord.com) and I saw a video on YouTube about building a site and confing it. It was from that day that I got to know coding and became very interested in this subject, and still after almost 3 years have passed. I am looking forward to learning new things in coding and programming! 🔍
 
 I joined the Discord community in 2020 and started confing servers and bots in 2021 🍷
 
