@@ -1,11 +1,11 @@
 <img src="https://cdn.discordapp.com/attachments/948900073880825908/1086332526370500679/kj.jpg">
 
 # 👋🏻 Hey Im -Kakashi
-Im **Kakashi** and my real name is **Sepehr**  im 15 y.o and form Iran . I love playing games and writing code, especially about Discord.js and the site 🌎
+Im **Kakashi** and my real name is **Sepehr**  im 15 y.o and form Iran . I love playing games and writing code, especially about Html5 , Css , Node.js , Git And Javascript 🌎
 
-Well, how did I get to know coding? It was 2021 and I just got acquainted with [***Discord**](https://www.discord.com) and I saw a video on YouTube about building a site and confing it. It was from that day that I got to know coding and became very interested in this subject, and still after almost 3 years have passed. I am looking forward to learning new things in coding and programming! 🔍
+Well, how did I get to know coding? It was 2021 and I just got acquainted with [**Discord**](https://www.discord.com) and I saw a video on YouTube about building a site and confing it. It was from that day that I got to know coding and became very interested in this subject, and still after almost 3 years have passed. I am looking forward to learning new things in coding and programming! 🔍
 
-I joined the Discord community in 2020 and started confing servers and bots in 2021 🍷
+When I became a professional in coding, I started making great bots in Discord and also designing websites for my friends and myself, and this incident made me get to know GitHub and start uploading projects. [**AGc Bot**](https://github.com/Kakashi880/AGc) It is one of my best projects in Discord.js 🍷
 
 If you have any questions about server configuration and bot creation, I will be happy to ask me in DM Discord and I will definitely answer 🧡
 
