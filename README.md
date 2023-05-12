@@ -14,7 +14,7 @@ I would be happy if you join the server in Discord and talk more : [**Community 
 ## 🛠 Skills
 <img src="https://cdn.discordapp.com/attachments/948900073880825908/1086337206878208030/Untitled_design.png">
 
-### 🌐 Social
+## 🌐 Social
 <img src="https://cdn.discordapp.com/attachments/948900073880825908/1086339154071257168/Untitled_design.png">
 <p align="left">
   <a href="https://discord.com/users/767483040279560232" target="_blank">
@@ -22,7 +22,7 @@ I would be happy if you join the server in Discord and talk more : [**Community 
   </a>
 </p>
 
-#### 🚀 Github Stats
+## 🚀 Github Stats
 ![- Kakashi's github stats](https://github-readme-stats.vercel.app/api?username=Kakashi880)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakashi880)](https://github.com/Kakashi880/github-readme-stats)
 ![snake gif](https://github.com/Kakashi880/Kakashi880/blob/output/github-contribution-grid-snake.gif)
